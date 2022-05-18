@@ -2,7 +2,9 @@
 
 This is a weather forecast application on IOS.<br />
 
-This is my demo video: https://www.youtube.com/watch?v=r_TBoVkOws0<br />
+Here is my demo video: https://www.youtube.com/watch?v=r_TBoVkOws0<br />
+
+Angular version has the appoximately the same functions as the IOS app.
 
 ## Tools
 Mac<br />
