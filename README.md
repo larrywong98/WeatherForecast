@@ -18,7 +18,7 @@ GCP<br />
 
 Main page aka "Favorite cities page"<br />
 
-For each favorite city, there are 3 detailed weather tabs:<br />
+For each favorite city, there are 3 detailed weather tabs<br />
 1. Today weather report<br />
 2. Weekly weather report<br />
 3. Graph weather report<br />
